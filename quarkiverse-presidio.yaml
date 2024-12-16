@@ -3,4 +3,5 @@ group-id: "io.quarkiverse.presidio"
 artifact-id: "quarkus-presidio"
 versions:
 - "0.2.0"
+- "0.3.0"
 exclude-versions: []
